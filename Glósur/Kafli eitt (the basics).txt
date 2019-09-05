@@ -1,0 +1,93 @@
+Whitespace = whitespace is ignored within both expressions and statements
+and is basicly the "WHITE space"
+
+Indentation = Pyhton requiers consistency in whitespace indentation 
+and if the previous statment uses indentation the others also REQUIRE it
+
+Continuation = When the lines are long you can press "enter" and continue the same line
+below. This is indicated by using ("/") or ("\")
+
+Keywords = They indicate commands to the Python
+interpreter. Such keywords as this : 
+(" and, del, from, not, while, as,elif, global,
+ or, with, assert, else, if, pass, yield, 
+break, except, import, print, class, exec,
+in, raise, continue, finally, is, return, def, for
+lambda, try, true, false, none")
+
+Operators = They are special tokens (sequences of
+characters) that have meaning to the pyhthon
+interpeter. ("+, -, *, **, /, //, %, <<, >>, &
+|, <, >, <=, >=, ==, !=, <>, +=, -=, *=, /=, //=,
+%=, &=, |=, ^=, >>=, <<=, **= ") (vantar tvö)
+
+Punctuators and Delimiters = Punctuators, also known
+as Delimiters, separate different elements in
+Python statements and expressions (" (, ), [, ],
+, , :, ., ', =, ;, ', ", #, {, @, \ ")
+
+Literals = Is a value that cannot be changed in
+the program. for example 123 is a literal, it 
+has a fixed value and cannot modified.
+
+Variables = A variable is a name you create
+in your program to represent "something"
+in your program. That "something" can be
+many types of entities: a value, another program,
+a set of data or a file.
+
+what the "=" means in pyhton = In math "=" means
+equality whereas the left side and right side
+are equal but in python "=" means assignment. 
+Assigment is the operation to associate a value 
+witha variable.
+
+my_var = 4
+
+my_var = my_var + 1
+
+NOW my_var = 5
+
+Integers = ("int") It's type corresponds to our
+mathmatical notion of integer. f.x. + (addition),
+- (subtraction), *(multiplication) etc.
+
+Floating-point numbers = Floating-point or
+real numbers are designated in python as type 
+float. The floating-point type refers to non-
+integer numbers, numbers with decimal points.
+2,99x10^8 is written 2.99e8
+
+Boolean = The boolean type refers to the values
+true or false and can only be either of those
+two things
+
+String = ("str") A string is a collection type.
+A collection type contains multiple objects 
+organized as a single object type.
+
+List = A list is like a string but i can have
+different elements other than characters in the 
+squence
+
+In python when you suptract two integer numbers
+you will get a floating point result. to combat 
+this you can either use // or %.
+
+
+Shortcut             Equivalence
+My_int += 2         my_int = my_int +2
+My_int -= 2         my_int = my_int -2
+
+Algorithm: A method-a sequence of steps-that
+decripes how to solve a problem or class of
+problems
+
+
+
+
+
+
+
+
+
